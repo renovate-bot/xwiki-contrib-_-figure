@@ -25,7 +25,7 @@
   <parent>
     <groupId>org.xwiki.contrib</groupId>
     <artifactId>parent-platform</artifactId>
-    <version>14.10</version>
+    <version>14.10-7</version>
   </parent>
   <artifactId>figure</artifactId>
   <!-- Starting at 15.4 to allow versions between 14.9 and 15.3 to be offered to upgrade (with a 1.0 version, this 
