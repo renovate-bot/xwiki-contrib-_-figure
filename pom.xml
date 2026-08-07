@@ -31,8 +31,8 @@
   <!-- Starting at 15.4 to allow versions between 14.9 and 15.3 to be offered to upgrade (with a 1.0 version, this 
        would be considered a downgrade by the extensions UI. -->
   <version>15.4.5-SNAPSHOT</version>
-  <name>Figure - Parent POM</name>
-  <description>Parent POM for Figure modules</description>
+  <name>Figure</name>
+  <description>Tag content as an illustration and with an optional caption</description>
   <packaging>pom</packaging>
   <properties>
     <xwiki.issueManagement.system>jira</xwiki.issueManagement.system>
